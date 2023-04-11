@@ -1,5 +1,5 @@
 ## About me
-* Hi, I'm Zhongming Yu, currently a undergraduate student learning in EE department, THU.
+* Hi, I'm Zhongming Yu, currently a Ph.D. student learning in CSE department, UC San Diego.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishmingyu&show_icons=true&theme=radical)
 
