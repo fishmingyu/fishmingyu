@@ -1,6 +1,13 @@
-## About me
-* Hi, I'm Zhongming Yu, currently a Ph.D. student learning in CSE department, UC San Diego.
+## Hi, I'm Zhongming Yu 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishmingyu&show_icons=true&theme=radical)
+Ph.D. student in CSE @ UC San Diego, advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/).  
+I work on **LLM-based agent infrastructure** — building systems where agents are first-class computational entities.
 
-> Welcome to [My Blog](https://fishmingyu.github.io)
+### 📌 Links
+
+- 🌐 [fishmingyu.github.io](https://fishmingyu.github.io)
+- 🏢 [sysevol-ai](https://github.com/sysevol-ai)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fishmingyu&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true)](https://github.com/fishmingyu)
