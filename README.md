@@ -3,6 +3,13 @@
 Ph.D. student in CSE @ UC San Diego, advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/).  
 I work on **LLM-based agent infrastructure** — building systems where agents are first-class computational entities.
 
+### Research
+
+- **[OrcaLoca](https://github.com/sysevol-ai/OrcaLoca)** — Code fault localization agent *(ICML 2025)*
+- **CodeMiner** — Code intelligence infrastructure with hybrid retrieval (SCIP/LSP + vector + graph) *(targeting VLDB 2026)*
+- **MemConsist** — Memory consistency models for multi-agent LLM systems *(targeting NeurIPS 2026)*
+- **SelfTune** — LLM-driven evolutionary hyperparameter optimization
+
 ### 📌 Links
 
 - 🌐 [fishmingyu.github.io](https://fishmingyu.github.io)
@@ -10,4 +17,4 @@ I work on **LLM-based agent infrastructure** — building systems where agents a
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fishmingyu&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true)](https://github.com/fishmingyu)
+![Languages](./metrics.svg)

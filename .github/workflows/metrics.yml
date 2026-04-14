@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: fishmingyu
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css, makefile, cmake
+          config_timezone: America/Los_Angeles
+          filename: metrics.svg
+          output_action: commit
