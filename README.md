@@ -6,9 +6,7 @@ I work on **LLM-based agent infrastructure** — building systems where agents a
 ### Research
 
 - **[OrcaLoca](https://github.com/sysevol-ai/OrcaLoca)** — Code fault localization agent *(ICML 2025)*
-- **CodeMiner** — Code intelligence infrastructure with hybrid retrieval (SCIP/LSP + vector + graph) *(targeting VLDB 2026)*
-- **MemConsist** — Memory consistency models for multi-agent LLM systems *(targeting NeurIPS 2026)*
-- **SelfTune** — LLM-driven evolutionary hyperparameter optimization
+- **[CodeNib](https://github.com/sysevol-ai/CodeNib)** — A multi-view data system for serving repository context to coding agents
 
 ### 📌 Links
 
