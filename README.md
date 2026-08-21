@@ -11,8 +11,11 @@ I work on **LLM-based agent infrastructure** — building systems where agents a
 ### 📌 Links
 
 - 🌐 [fishmingyu.github.io](https://fishmingyu.github.io)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=68sFa3IAAAAJ)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fishmingyuee)
+- 𝕏 [X](https://x.com/zhongming_yu)
 - 🏢 [sysevol-ai](https://github.com/sysevol-ai)
 
 ---
 
-![Languages](./metrics.svg)
+![Languages based on my GitHub contributions](./metrics.svg)
